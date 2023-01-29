@@ -1,1 +1,2 @@
 Commit1 from Linux PC
+Modificacion from Windows PC. Primer commit desde la rama SMR2
