@@ -1,1 +1,2 @@
 Primer commit SMR1 desde Linux, en la rama SMR1Linux
+Segundo commit SMR1 desde Linux, en la rama SMR1Linux
